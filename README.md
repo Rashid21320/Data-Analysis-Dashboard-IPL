@@ -61,3 +61,11 @@ This dashboard aims to help users — such as analysts, cricket fans, or recruit
    Top batsmen & bowlers
    Seasonal performance variation
    Summarized the findings in a clean visual layout.
+
+## Dashboard
+<img width="1460" height="704" alt="Screenshot 2025-10-15 at 01 12 48" src="https://github.com/user-attachments/assets/14b271ca-925f-4011-bd14-86a3921594f6" /> Dashboard-1
+
+<img width="1375" height="591" alt="Screenshot 2025-10-03 054557" src="https://github.com/user-attachments/assets/c9b05b18-2f19-452f-922f-406a4e30276a" /> Dashborad-2
+
+
+   
