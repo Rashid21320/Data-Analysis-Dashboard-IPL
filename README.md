@@ -23,11 +23,13 @@ This dashboard aims to help users — such as analysts, cricket fans, or recruit
  1️⃣ Data Collection
 IPL data was collected from reliable sources (e.g., Kaggle or official IPL stats).
 Data was saved as a .csv file and imported into Excel for analysis.
+
 2️⃣ Data Cleaning
 Removed duplicates and irrelevant columns.
 Fixed inconsistent team or player names.
 Handled missing values (e.g., “NA” or blank cells).
 Standardized date formats and match results.
+
 3️⃣ Data Transformation
 Used Power Query to load and transform raw data.
 Created calculated columns such as:
@@ -36,6 +38,7 @@ Strike Rate
 Economy Rate
 Win Percentage
 Merged multiple sheets/tables (matches, players, teams) for unified analysis.
+
 4️⃣ Data Analysis
 Applied Pivot Tables for summarizing team and player performance.
 Generated aggregations such as:
@@ -43,6 +46,7 @@ Runs per player per season
 Wins per team per year
 Wickets per bowler
 Filtered and grouped data for specific insights (like most consistent players).
+
 5️⃣ Dashboard Design
 Created interactive Pivot Charts, Slicers, and Timelines.
 Used conditional formatting to highlight key trends.
@@ -50,6 +54,7 @@ Arranged visuals logically for quick insights:
 Top-left: Team Overview
 Center: Player Statistics
 Bottom: Season Trends
+
 6️⃣ Insights & Interpretation
 Interpreted the visual results to identify trends:
 Most successful team overall
